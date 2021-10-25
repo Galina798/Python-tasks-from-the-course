@@ -25,3 +25,4 @@ sum_price = sum(price)   # считаем итоговую стоимость б
 if tikets >3:
     sum_price = sum_price*0.9  #считаем итоговую сумму с учетом скидки
 print ("Cумма к оплате: ", int(sum_price))         #вывод суммы
+
